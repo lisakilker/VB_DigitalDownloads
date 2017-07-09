@@ -1,0 +1,10 @@
+c:\users\lisakilker\documents\visual studio 2012\Projects\DigitalDownloads\DigitalDownloads\bin\Debug\DigitalDownloads.exe.config
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\DigitalDownloads\DigitalDownloads\bin\Debug\DigitalDownloads.exe
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\DigitalDownloads\DigitalDownloads\bin\Debug\DigitalDownloads.pdb
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\DigitalDownloads\DigitalDownloads\bin\Debug\DigitalDownloads.xml
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\DigitalDownloads\DigitalDownloads\obj\Debug\DigitalDownloads.frmDigitalDownloads.resources
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\DigitalDownloads\DigitalDownloads\obj\Debug\DigitalDownloads.Resources.resources
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\DigitalDownloads\DigitalDownloads\obj\Debug\DigitalDownloads.vbproj.GenerateResource.Cache
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\DigitalDownloads\DigitalDownloads\obj\Debug\DigitalDownloads.exe
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\DigitalDownloads\DigitalDownloads\obj\Debug\DigitalDownloads.xml
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\DigitalDownloads\DigitalDownloads\obj\Debug\DigitalDownloads.pdb
